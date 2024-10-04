@@ -1,7 +1,7 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
 
-import MainContent from "./Practice6/MainContent";
+import MainContent from "./js/MainContent";
 
 // ------------------------------------- Render Elements on browser -------------------------------------
 const rootElement = document.querySelector("#root");
