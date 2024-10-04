@@ -1,7 +1,10 @@
+// Exporting an array of joke objects as the default export
 export default [
   {
     id: 1,
+    // Setup for the joke
     setup: "I got my daughter a fridge for her birthday.",
+    // Punchline for the joke
     punchline: "I can't wait to see her face light up when she opens it.",
   },
   {
